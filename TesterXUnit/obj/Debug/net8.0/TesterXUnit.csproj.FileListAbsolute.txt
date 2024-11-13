@@ -113,3 +113,7 @@ C:\Users\Aluno Noite\Downloads\TesterCore\TesterXUnit\obj\Debug\net8.0\refint\Te
 C:\Users\Aluno Noite\Downloads\TesterCore\TesterXUnit\obj\Debug\net8.0\TesterXUnit.pdb
 C:\Users\Aluno Noite\Downloads\TesterCore\TesterXUnit\obj\Debug\net8.0\TesterXUnit.genruntimeconfig.cache
 C:\Users\Aluno Noite\Downloads\TesterCore\TesterXUnit\obj\Debug\net8.0\ref\TesterXUnit.dll
+C:\Users\Aluno Noite\Downloads\TesterCore\TesterXUnit\bin\Debug\net8.0\CoverletSourceRootsMapping_TesterXUnit
+C:\Users\Aluno Noite\Downloads\TesterCore\TesterXUnit\bin\Debug\net8.0\TesterCore.dll
+C:\Users\Aluno Noite\Downloads\TesterCore\TesterXUnit\bin\Debug\net8.0\TesterCore.pdb
+C:\Users\Aluno Noite\Downloads\TesterCore\TesterXUnit\obj\Debug\net8.0\TesterXUnit.sourcelink.json

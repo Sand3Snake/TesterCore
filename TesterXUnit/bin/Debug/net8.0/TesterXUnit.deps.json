@@ -10,6 +10,7 @@
         "dependencies": {
           "MSTest.TestFramework": "3.6.3",
           "Microsoft.NET.Test.Sdk": "17.8.0",
+          "TesterCore": "1.0.0",
           "coverlet.collector": "6.0.0",
           "xunit": "2.9.2",
           "xunit.runner.visualstudio": "2.5.3",
@@ -400,6 +401,15 @@
         }
       },
       "xunit.runner.visualstudio/2.5.3": {},
+      "TesterCore/1.0.0": {
+        "dependencies": {
+          "MSTest.TestFramework": "3.6.3",
+          "xunit": "2.9.2"
+        },
+        "runtime": {
+          "TesterCore.dll": {}
+        }
+      },
       "Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions/14.0.0.0": {
         "runtime": {
           "Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll": {
@@ -534,6 +544,11 @@
       "sha512": "sha512-HFFL6O+QLEOfs555SqHii48ovVa4CqGYanY+B32BjLpPptdE+wEJmCFNXlLHdEOD5LYeayb9EroaUpydGpcybg==",
       "path": "xunit.runner.visualstudio/2.5.3",
       "hashPath": "xunit.runner.visualstudio.2.5.3.nupkg.sha512"
+    },
+    "TesterCore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions/14.0.0.0": {
       "type": "reference",

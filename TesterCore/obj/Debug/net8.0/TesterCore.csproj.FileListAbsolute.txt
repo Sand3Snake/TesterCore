@@ -15,3 +15,4 @@ C:\Users\Aluno Noite\Downloads\TesterCore\TesterCore\obj\Debug\net8.0\refint\Tes
 C:\Users\Aluno Noite\Downloads\TesterCore\TesterCore\obj\Debug\net8.0\TesterCore.pdb
 C:\Users\Aluno Noite\Downloads\TesterCore\TesterCore\obj\Debug\net8.0\TesterCore.genruntimeconfig.cache
 C:\Users\Aluno Noite\Downloads\TesterCore\TesterCore\obj\Debug\net8.0\ref\TesterCore.dll
+C:\Users\Aluno Noite\Downloads\TesterCore\TesterCore\obj\Debug\net8.0\TesterCore.sourcelink.json
